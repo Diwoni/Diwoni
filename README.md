@@ -7,6 +7,7 @@
 
 ##  🌱 I’m currently learning ...
  - React
+ - TypeSciprt
 
 
 #[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw117)](https://solved.ac/jgw117/)
